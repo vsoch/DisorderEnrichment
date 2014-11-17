@@ -1,0 +1,414 @@
+globus pallidus, internal segment, left	motor
+Heschl's gyrus, left	auditory
+parahippocampal gyrus, left, lateral bank of gyrus	memory
+temporal pole, left, medial aspect	emotion,memory
+lingual gyrus, left, striate	vision,logic
+middle frontal gyrus, left, superior bank of gyrus	attention,memory
+inferior temporal gyrus, left, bank of the its	vision,object recognition
+fusiform gyrus, left, bank of the its	face recognition,color,word recognition
+VI, left, lateral hemisphere	cerebellum
+head of caudate nucleus, left	movement
+gyrus rectus, left	cognition
+short insular gyri, left	emotion,consciousness,homeostasis
+cuneus, left, striate	vision
+V, left, paravermis	cerebellum
+Crus I, left, lateral hemisphere	cerebellum,motor
+vestibular nuclei, left	balance,auditory
+cochlear nuclei, left	balance,auditory
+spinal trigeminal nucleus, left	touch,pain,temperature
+cuneate nucleus, left	fine touch,proprioception
+central glial substance	spinal cord
+inferior olivary complex, left	cerebellum,movement
+lateral medullary reticular group, left	sleep,pain,movement,relay
+central medullary reticular group, left	sleep,pain,movement,relay
+raphe nuclei of medulla	serotonin,circadian rhythm,sleep
+gigantocellular group, left	tongue,motor
+gracile nucleus, left	fine touch,proprioception
+arcuate nucleus of medulla, left	respiration
+pontine nuclei, left	motor
+superior olivary complex, left	auditory
+pontine reticular formation, left	eye movement
+basal nucleus of meynert, left	learning,memory
+pontine raphe nucleus, left	serotonin,circadian rhythm,sleep
+facial motor nucleus, left	motor,sensory
+lateral parabrachial nucleus, left	taste,sensory
+substantia nigra, pars reticulata, left	reward,addiction,movement
+subcuneiform nucleus, left	motor
+dorsomedial hypothalamic nucleus, left	feeding,drinking,circadian rhythm
+dorsal lateral geniculate nucleus, left	vision,auditory
+putamen, left	movement,learning
+tail of caudate nucleus, left	movement
+CA4 field, left	limbic,spatial,memory
+CA2 field, left	limbic,spatial,memory
+pretectal region	vision
+central gray substance of midbrain, left	other
+caudal group of intralaminar nuclei, left	cognition,sensory,motor,relay
+lateral group of nuclei, left, ventral division	cognition,sensory,motor,relay
+lateral group of nuclei, left, dorsal division	cognition,sensory,motor,relay
+medial group of nuclei, left	cognition,sensory,motor,relay
+medial geniculate complex, left	auditory
+substantia nigra, pars compacta, left	reward,addiction,movement
+red nucleus, left	motor
+oculomotor nuclear complex, left	vision,motor
+subthalamic nucleus, left	motor
+zona incerta, left	limbic,pain
+reticular nucleus of thalamus, left	relay
+choroid plexus of the lateral ventricle	ventricle
+pineal gland	sleep,circadian rhythm
+dentate gyrus, left	memory
+body of caudate nucleus, left	movement
+CA3 field, left	limbic,spatial,memory
+precuneus, left, superior lateral bank of gyrus	vision,memory,spatial,self,consciousness
+cingulate gyrus, retrosplenial part, left, superior bank of gyrus	limbic,emotion,learning,memory
+superior parietal lobule, left, inferior bank of gyrus	spatial
+superior parietal lobule, left, superior bank of gyrus	spatial
+angular gyrus, left, inferior bank of gyrus	language,numbers,spatial,cognition,memory,attention
+lingual gyrus, left, peristriate	vision,logic
+occipito-temporal gyrus, left, superior bank of gyrus	recognition,color,word recognition
+occipito-temporal gyrus, left, inferior bank of gyrus	recognition,color,word recognition
+superior occipital gyrus, left, superior bank of gyrus	vision
+precuneus, left, inferior lateral bank of gyrus	vision,memory,spatial,self,consciousness
+planum temporale, left	language
+superior temporal gyrus, left, lateral bank of gyrus	auditory,language
+supramarginal gyrus, left, inferior bank of gyrus	language
+inferior temporal gyrus, left, bank of mts	vision,object recognition
+middle temporal gyrus, left, inferior bank of gyrus	memory,language,vision,sensory
+cingulate gyrus, parietal part, left, superior bank of gyrus	limbic,emotion,learning,memory
+paracentral lobule, anterior part, left, inferior bank of gyrus	motor
+fusiform gyrus, left, lateral bank of gyrus	recognition,color,word recognition
+fusiform gyrus, left, bank of cos	 recognition,color,word recognition
+inferior temporal gyrus, left, lateral bank of gyrus	vision,object recognition
+postcentral gyrus, left, bank of the central sulcus	sensory
+precentral gyrus, left, inferior lateral aspect of gyrus	motor
+postcentral gyrus, left, superior lateral aspect of gyrus	sensory
+superior frontal gyrus, left, lateral bank of gyrus	awareness,laughter,cognition
+planum polare, left	auditory,language
+middle temporal gyrus, left, superior bank of gyrus	memory,language,vision,sensory
+cingulate gyrus, frontal part, left, superior bank of gyrus	limbic,emotion,learning,memory
+temporal pole, left, superior aspect	emotion,memory
+medial orbital gyrus, left	sensory,olfactory
+superior frontal gyrus, left, medial bank of gyrus	awareness,laughter,cognition
+inferior rostral gyrus, left	planning,reasoning,decision making
+middle frontal gyrus, left, inferior bank of gyrus	attention,memory
+lateral orbital gyrus, left	sensory,olfactory
+inferior frontal gyrus, orbital part, left	impusivity,response,language
+inferior frontal gyrus, triangular part, left	impusivity,response,language
+anterior orbital gyrus, left	sensory,olfactory
+anterior hypothalamic area, left	thermoregulation,sleep
+supraoptic nucleus, left	endocrine
+lateral hypothalamic area, anterior region, left	hunger,alertness
+paraventricular nucleus of the hypothalamus, left	endocrine,hunger,circadian rhythm
+preoptic region, left	thermoregulation
+nucleus of the diagonal band, left, vertical division	memory,learning,other
+olfactory tubercle, left	sensory,reward
+piriform cortex, left	olfaction
+claustrum, left	relay,other
+bed nucleus of stria terminalis, left	stress,reward,relay
+nucleus of the diagonal band, left, horizontal division	memory,learning,other
+septal nuclei, left	reward
+nucleus accumbens, left	reward
+fastigial nucleus, left	cerebellum
+globose nucleus, left	cerebellum
+dentate nucleus, left	memory
+CA1 field, left	limbic,spatial,memory
+pallidohypothalamic nucleus, left	hunger,alertness
+lateral mammillary nucleus, left	memory,spatial,smell
+lateral hypothalamic area, mammillary region, left	memory,spatial,smell
+supramammillary nucleus, left	memory,spatial,smell
+medial mammillary nucleus, left	memory,spatial,smell
+posterior hypothalamic area, left	thermoregulation
+lateral hypothalamic area, tuberal region, left	hunger
+lateral tuberal nucleus, left	hunger
+tuberomammillary nucleus, left	arousal,sleep,circadian rhythm
+perifornical nucleus, left	hunger
+ventromedial hypothalamic nucleus, left	feeding,fear,thermoregulation,reproduction
+anterior group of nuclei, left	alertness,learning,memory,limbic
+subiculum, left	memory,addiction,spatial
+amygdalohippocampal transition zone, left	memory,fear
+central nucleus, left	emotion,pain,memory
+lateral nucleus, left	emotion,pain,memory
+cortico-medial group, left	relay,other
+basomedial nucleus, left	memory,fear
+basolateral nucleus, left	memory,fear
+cingulate gyrus, retrosplenial part, left, inferior bank of gyrus	limbic,emotion,learning,memory
+angular gyrus, left, superior bank of gyrus	language,numbers,spatial,cognition,memory,attention
+inferior occipital gyrus, left, inferior bank of gyrus	vision
+cuneus, left, peristriate	vision
+superior occipital gyrus, left, inferior bank of gyrus	vision
+inferior occipital gyrus, left, superior bank of gyrus	vision
+supramarginal gyrus, left, superior bank of gyrus	language
+superior temporal gyrus, left, inferior bank of gyrus	auditory,language
+cingulate gyrus, parietal part, left, inferior bank of gyrus	limbic,emotion,learning,memory
+paracentral lobule, anterior part, left, superior bank of gyrus	motor
+precentral gyrus, left, superior lateral aspect of gyrus	motor
+precentral gyrus, left, bank of the central sulcus	motor
+cingulate gyrus, frontal part, left, inferior bank of gyrus	limbic,emotion,learning,memory
+parolfactory gyri, left	other
+inferior frontal gyrus, opercular part, left	impulsivity,response,language
+frontal operculum, left	response,movement,music
+subcallosal cingulate gyrus, left	limbic,emotion,learning,memory
+postcentral gyrus, left, inferior lateral aspect of gyrus	sensory
+precentral gyrus, left, bank of the precentral sulcus	motor
+long insular gyri, left	emotion,consciousness,homeostasis
+parahippocampal gyrus, left, bank of the cos	memory
+corpus callosum	white matter,relay
+posterior orbital gyrus, left	sensory,olfactory
+superior rostral gyrus, left	planning,reasoning,decision making
+IV, left, paravermis	cerebellum
+III, left, paravermis	cerebellum
+VIIB, left, paravermis	cerebellum
+Crus II, left, paravermis	cerebellum,motor
+Crus I, left, paravermis	cerebellum,motor
+VI, left, paravermis	cerebellum
+V, left, lateral hemisphere	cerebellum
+VIIIA, left, lateral hemisphere	cerebellum
+VIIB, left, lateral hemisphere	cerebellum
+Crus II, left, lateral hemisphere	cerebellum,motor
+X, left, lateral hemisphere	cerebellum
+IX, left, lateral hemisphere	cerebellum
+VIIIB, left, lateral hemisphere	cerebellum
+transverse gyri, left	auditory
+postcentral gyrus, left, bank of the posterior central sulcus	sensory
+nucleus subceruleus, left	other
+motor nucleus of trigeminal nerve, left	motor
+abducens nucleus, left	eye coordination,motor
+medial parabrachial nucleus, left	taste,relay
+ventral tegmental area, left	reward,cognition,emotion
+cuneiform nucleus, left	other
+midbrain raphe nuclei, left	serotonin,circadian rhythm,sleep
+rostral group of intralaminar nuclei, left	cognition,sensory,motor,relay
+paraventricular nuclei, left of thalamus, left	endocrine,hunger,circadian rhythm
+posterior group of nuclei, left	relay
+interstitial nucleus of Cajal, left	gaze,vision
+nucleus of Darkschewitsch, left	relay
+Edinger-Westphal nucleus, left	iris constriction,vision
+paracentral lobule, anterior part, left	motor
+temporal pole, left, inferior aspect	emotion,memory
+lateral habenular nucleus, left	pain,reproduction,feeding,sleep,stress,learning,reward
+medial habenular nucleus, left	pain,reproduction,feeding,sleep,stress,learning,reward
+globus pallidus, external segment, left	motor
+inferior colliculus, left	auditory
+IX, left, paravermis	cerebellum
+VIIIA, left, paravermis	cerebellum
+VIIIB, left, paravermis	cerebellum
+III, left, lateral hemisphere	cerebellum
+paracentral lobule, anterior part, right, inferior bank of gyrus	motor
+claustrum, right	relay,other
+CA4 field, right	limbic,spatial,memory
+dentate gyrus, right	memory
+emboliform nucleus, right	cerebellum
+anterior group of nuclei, right	alertness,learning,memory,limbic
+lateral group of nuclei, right, ventral division	cognition,sensory,motor,relay
+rostral group of intralaminar nuclei, right	cognition,sensory,motor,relay
+medial group of nuclei, right	cognition,sensory,motor,relay
+reticular nucleus of thalamus, right	relay
+paraventricular nuclei, right of thalamus, right	endocrine,hunger,circadian rhythm
+substantia innominata, right	other
+subthalamic nucleus, right	motor
+zona incerta, right	limbic,pain
+central gray substance of midbrain, right	other
+red nucleus, right	motor
+substantia innominata, left	other
+postcentral gyrus, right, bank of the central sulcus	sensory
+fusiform gyrus, right, bank of cos	 recognition,color,word recognition
+fusiform gyrus, right, lateral bank of gyrus	 recognition,color,word recognition
+Heschl's gyrus, right	auditory
+long insular gyri, right	emotion,consciousness,homeostasis
+superior temporal gyrus, right, lateral bank of gyrus	auditory,language
+superior temporal gyrus, right, inferior bank of gyrus	auditory,language
+middle temporal gyrus, right, superior bank of gyrus	memory,language,vision,sensory
+middle temporal gyrus, right, inferior bank of gyrus	memory,language,vision,sensory
+inferior temporal gyrus, right, bank of the its	vision,object recognition
+inferior temporal gyrus, right, lateral bank of gyrus	vision,object recognition
+inferior temporal gyrus, right, bank of mts	vision,object recognition
+fusiform gyrus, right, bank of the its	 recognition,color,word recognition
+postcentral gyrus, right, inferior lateral aspect of gyrus	sensory
+planum temporale, right	language
+superior frontal gyrus, right, medial bank of gyrus	awareness,laughter,cognition
+precentral gyrus, right, bank of the precentral sulcus	motor
+precentral gyrus, right, superior lateral aspect of gyrus	motor
+precentral gyrus, right, inferior lateral aspect of gyrus	motor
+precentral gyrus, right, bank of the central sulcus	motor
+superior frontal gyrus, right, lateral bank of gyrus	awareness,laughter,cognition
+middle frontal gyrus, right, superior bank of gyrus	attention,memory
+middle frontal gyrus, right, inferior bank of gyrus	attention,memory
+globus pallidus, internal segment, right	motor
+cingulate gyrus, parietal part, right, superior bank of gyrus	limbic,emotion,learning,memory
+cingulate gyrus, parietal part, right, inferior bank of gyrus	limbic,emotion,learning,memory
+cingulum bundle, right	limbic,memory
+parahippocampal gyrus, right, bank of the cos	memory
+body of caudate nucleus, right	movement
+cingulate gyrus, frontal part, right, superior bank of gyrus	limbic,emotion,learning,memory
+cingulate gyrus, frontal part, right, inferior bank of gyrus	limbic,emotion,learning,memory
+postcentral gyrus, right, superior lateral aspect of gyrus	sensory
+putamen, right	movement,learning
+globus pallidus, external segment, right	motor
+transverse gyri, right	auditory
+short insular gyri, right	emotion,consciousness,homeostasis
+parahippocampal gyrus, right, lateral bank of gyrus	memory
+planum polare, right	auditory,language
+paracentral lobule, anterior part, right, superior bank of gyrus	motor
+supramarginal gyrus, right, superior bank of gyrus	language
+supramarginal gyrus, right, inferior bank of gyrus	language
+head of caudate nucleus, right	movement
+anterior orbital gyrus, right	sensory,olfactory
+lateral orbital gyrus, right	sensory,olfactory
+gyrus rectus, right	cognition
+superior rostral gyrus, right	planning,reasoning,decision making
+lingual gyrus, right, peristriate	vision,logic
+lingual gyrus, right, striate	vision,logic
+cuneus, right, peristriate	vision
+angular gyrus, right, superior bank of gyrus	language,numbers,spatial,cognition,memory,attention
+precuneus, right, inferior lateral bank of gyrus	vision,memory,spatial,self,consciousness
+superior parietal lobule, right, inferior bank of gyrus	spatial
+angular gyrus, right, inferior bank of gyrus	language,numbers,spatial,cognition,memory,attention
+superior occipital gyrus, right, superior bank of gyrus	vision
+superior parietal lobule, right, superior bank of gyrus	spatial
+precuneus, right, superior lateral bank of gyrus	vision,memory,spatial,self,consciousness
+cuneus, right, striate	vision
+inferior rostral gyrus, right	planning,reasoning,decision making
+frontal pole, left, superior aspect	planning,decision making,executive
+medial orbital gyrus, right	sensory,olfactory
+dentate nucleus, right	memory
+subiculum, right	memory,addiction,spatial
+CA1 field, right	limbic,spatial,memory
+CA2 field, right	limbic,spatial,memory
+CA3 field, right	limbic,spatial,memory
+tail of caudate nucleus, right	 movement
+lateral hypothalamic area, mammillary region, right	memory,spatial,smell
+posterior hypothalamic area, right	thermoregulation
+substantia nigra, pars compacta, right	reward,addiction,movement
+ventral tegmental area, right	reward,cognition,emotion
+caudal group of intralaminar nuclei, right	cognition,sensory,motor,relay
+oculomotor nuclear complex, right	vision,motor
+principal sensory nucleus of trigeminal nerve, left	sensory,proprioception
+hypoglossal nucleus, right	motor
+hypoglossal nucleus, left	motor
+facial motor nucleus, right	motor
+motor nucleus of trigeminal nerve, right	motor
+inferior olivary complex, right	cerebellum,movement
+medial parabrachial nucleus,right	taste,relay
+substantia nigra, pars reticulata, right	reward,addiction,movement
+locus ceruleus, right	stress
+pontine nuclei, right	motor
+arcuate nucleus of medulla, right	respiration
+lateral parabrachial nucleus, right	taste,sensory
+midbrain reticular formation, left	sleep,circadian rhythm
+midbrain reticular formation, right	sleep,circadian rhythm
+principal sensory nucleus of trigeminal nerve, right	sensory,proprioception
+locus ceruleus, left	stress
+pontine reticular formation, right	eye movement
+nucleus subceruleus, right	other
+subcuneiform nucleus, right	motor
+trochlear nucleus, right	motor
+superior olivary complex, right	auditory
+midbrain raphe nuclei	serotonin,circadian rhythm,sleep
+trochlear nucleus, left	motor
+frontal operculum, right	response,movement,music
+inferior frontal gyrus, opercular part, right	impusivity,response,language
+inferior frontal gyrus, orbital part, right	impusivity,response,language
+VIIAt	cerebellum
+VIIIA, right, paravermis	cerebellum
+cingulum bundle, left	limbic,memory
+superior colliculus, left	vision
+septal nuclei, right	reward
+preoptic region, right	thermoregulation
+supraoptic nucleus, right	endocrine
+lateral group of nuclei, right, dorsal division	cognition,sensory,motor,relay
+posterior group of nuclei, right	relay
+medial habenular nucleus, right	pain,reproduction,feeding,sleep,stress,learning,reward
+lateral habenular nucleus, right	pain,reproduction,feeding,sleep,stress,learning,reward
+emboliform nucleus, left	cerebellum
+occipito-temporal gyrus, right, superior bank of gyrus	recognition,color,word recognition
+occipito-temporal gyrus, right, inferior bank of gyrus	recognition,color,word recognition
+postcentral gyrus, right, bank of the posterior central sulcus	sensory
+subcallosal cingulate gyrus, right	limbic,emotion,learning,memory
+parolfactory gyri, right	other
+lateral medullary reticular group, right	relay
+vestibular nuclei, right	balance,auditory
+dorsal motor nucleus of the vagus, left	motor
+dorsal motor nucleus of the vagus, right	motor
+abducens nucleus, right	eye coordination,motor
+pontine raphe nucleus	serotonin,circadian rhythm,sleep
+cochlear nuclei, right	balance,auditory
+gigantocellular group, right	tongue,motor
+spinal trigeminal nucleus, right	touch,pain,temperature
+posterior orbital gyrus, right	sensory,olfactory
+temporal pole, right, medial aspect	emotion,memory
+temporal pole, right, superior aspect	emotion,memory
+temporal pole, right, inferior aspect	emotion,memory
+fastigial nucleus, right	cerebellum
+globose nucleus, right	cerebellum
+dorsal lateral geniculate nucleus, right	vision,auditory
+cuneate nucleus, right	fine touch,proprioception
+central medullary reticular group, right	relay
+gracile nucleus, right	fine touch,proprioception
+inferior frontal gyrus, triangular part, right	impusivity,response,language
+paracentral lobule, posterior part, right, bank of cingulate sulcus	motor
+paracentral lobule, posterior part, right, lateral bank of gyrus	motor
+VI, right, paravermis	cerebellum
+I-II	cerebellum
+III	cerebellum
+IX	cerebellum
+IV	cerebellum
+V	cerebellum
+VI	cerebellum
+VIIAf	cerebellum
+VIIB	cerebellum
+VIIIA	cerebellum
+VIIIB	cerebellum
+Crus I, right, lateral hemisphere	cerebellum,motor
+Crus II, right, lateral hemisphere	cerebellum,motor
+VIIB, right, lateral hemisphere	cerebellum
+VI, right, lateral hemisphere	cerebellum
+V, right, paravermis	cerebellum
+Crus I, right, paravermis	cerebellum,motor
+Crus II, right, paravermis	cerebellum,motor
+nucleus accumbens, right	reward
+III, right, paravermis	cerebellum
+IV, right, paravermis	cerebellum
+VIIB, right, paravermis	cerebellum
+VIIIB, right, paravermis	cerebellum
+IX, right, paravermis	cerebellum
+superior frontal gyrus, left	awareness,laughter,cognition
+X	cerebellum
+occipital pole, left, inferior aspect	vision
+occipital pole, left, superior aspect	vision
+arcuate nucleus of the hypothalamus, left	endocrine
+occipital pole, left, lateral aspect	vision
+central gray of the pons, left	sensory
+paracentral lobule, posterior part, left, lateral bank of gyrus	motor
+paracentral lobule, posterior part, left, bank of cingulate sulcus	motor
+lateral nucleus, right	emotion,pain,memory
+amygdalohippocampal transition zone, right	memory,fear
+basolateral nucleus, right	memory,fear
+basomedial nucleus, right	memory,fear
+frontal pole, left, inferior aspect	planning,decision making,executive
+frontal pole, left, medial aspect	planning,decision making,executive
+frontal pole, right, inferior aspect	planning,decision making,executive
+frontal pole, right, medial aspect	planning,decision making,executive
+frontal pole, right, superior aspect	planning,decision making,executive
+VIIIA, right, lateral hemisphere	cerebellum
+X, left, paravermis	cerebellum
+cingulate gyrus, retrosplenial part, right, superior bank of gyrus	limbic,emotion,learning,memory
+cingulate gyrus, retrosplenial part, right, inferior bank of gyrus	limbic,emotion,learning,memory
+paraterminal gyrus, right	other
+inferior occipital gyrus, right, superior bank of gyrus	vision
+superior occipital gyrus, right, inferior bank of gyrus	vision
+inferior occipital gyrus, right, inferior bank of gyrus	vision
+central gray of the pons, right	sensory
+Edinger-Westphal nucleus, right	iris constriction,vision
+superior colliculus, right	vision
+interstitial nucleus of Cajal, right	gaze,vision
+cuneiform nucleus, right	other
+arcuate nucleus of the hypothalamus, right	endocrine
+paraventricular nucleus of the hypothalamus, right	endocrine,hunger,circadian rhythm
+lateral hypothalamic area, anterior region, right	hunger,alertness
+anterior hypothalamic area, right	thermoregulation,sleep
+ventromedial hypothalamic nucleus, right	feeding,fear,thermoregulation,reproduction
+cortico-medial group, right	relay,other
+medial geniculate complex, right	auditory
+central nucleus, right	emotion,pain
+mammillary body, left	memory,spatial,smell
+mammillary body, right	memory,spatial,smell
+IV, left, lateral hemisphere	cerebellum
